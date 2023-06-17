@@ -1,2 +1,2 @@
 # sample-repo
-cd [coding]
+cd coding
